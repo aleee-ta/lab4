@@ -1,0 +1,1578 @@
+ul.numbers li:nth-child(1) {
+  color: #01ff00;
+}
+ul.numbers li:nth-child(1)::before {
+  content: '1';
+}
+ul.numbers li:nth-child(2) {
+  color: #02fe00;
+}
+ul.numbers li:nth-child(2)::before {
+  content: '2';
+}
+ul.numbers li:nth-child(3) {
+  color: #03fd00;
+}
+ul.numbers li:nth-child(3)::before {
+  content: '3';
+}
+ul.numbers li:nth-child(4) {
+  color: #04fc00;
+}
+ul.numbers li:nth-child(4)::before {
+  content: '4';
+}
+ul.numbers li:nth-child(5) {
+  color: #05fb00;
+}
+ul.numbers li:nth-child(5)::before {
+  content: '5';
+}
+ul.numbers li:nth-child(6) {
+  color: #06fa00;
+}
+ul.numbers li:nth-child(6)::before {
+  content: '6';
+}
+ul.numbers li:nth-child(7) {
+  color: #07f900;
+}
+ul.numbers li:nth-child(7)::before {
+  content: '7';
+}
+ul.numbers li:nth-child(8) {
+  color: #08f800;
+}
+ul.numbers li:nth-child(8)::before {
+  content: '8';
+}
+ul.numbers li:nth-child(9) {
+  color: #09f700;
+}
+ul.numbers li:nth-child(9)::before {
+  content: '9';
+}
+ul.numbers li:nth-child(10) {
+  color: #0af600;
+}
+ul.numbers li:nth-child(10)::before {
+  content: '10';
+}
+ul.numbers li:nth-child(11) {
+  color: #0bf500;
+}
+ul.numbers li:nth-child(11)::before {
+  content: '11';
+}
+ul.numbers li:nth-child(12) {
+  color: #0cf400;
+}
+ul.numbers li:nth-child(12)::before {
+  content: '12';
+}
+ul.numbers li:nth-child(13) {
+  color: #0df300;
+}
+ul.numbers li:nth-child(13)::before {
+  content: '13';
+}
+ul.numbers li:nth-child(14) {
+  color: #0ef200;
+}
+ul.numbers li:nth-child(14)::before {
+  content: '14';
+}
+ul.numbers li:nth-child(15) {
+  color: #0ff100;
+}
+ul.numbers li:nth-child(15)::before {
+  content: '15';
+}
+ul.numbers li:nth-child(16) {
+  color: #10f000;
+}
+ul.numbers li:nth-child(16)::before {
+  content: '16';
+}
+ul.numbers li:nth-child(17) {
+  color: #11ef00;
+}
+ul.numbers li:nth-child(17)::before {
+  content: '17';
+}
+ul.numbers li:nth-child(18) {
+  color: #12ee00;
+}
+ul.numbers li:nth-child(18)::before {
+  content: '18';
+}
+ul.numbers li:nth-child(19) {
+  color: #13ed00;
+}
+ul.numbers li:nth-child(19)::before {
+  content: '19';
+}
+ul.numbers li:nth-child(20) {
+  color: #14ec00;
+}
+ul.numbers li:nth-child(20)::before {
+  content: '20';
+}
+ul.numbers li:nth-child(21) {
+  color: #15eb00;
+}
+ul.numbers li:nth-child(21)::before {
+  content: '21';
+}
+ul.numbers li:nth-child(22) {
+  color: #16ea00;
+}
+ul.numbers li:nth-child(22)::before {
+  content: '22';
+}
+ul.numbers li:nth-child(23) {
+  color: #17e900;
+}
+ul.numbers li:nth-child(23)::before {
+  content: '23';
+}
+ul.numbers li:nth-child(24) {
+  color: #18e800;
+}
+ul.numbers li:nth-child(24)::before {
+  content: '24';
+}
+ul.numbers li:nth-child(25) {
+  color: #19e700;
+}
+ul.numbers li:nth-child(25)::before {
+  content: '25';
+}
+ul.numbers li:nth-child(26) {
+  color: #1ae600;
+}
+ul.numbers li:nth-child(26)::before {
+  content: '26';
+}
+ul.numbers li:nth-child(27) {
+  color: #1be500;
+}
+ul.numbers li:nth-child(27)::before {
+  content: '27';
+}
+ul.numbers li:nth-child(28) {
+  color: #1ce400;
+}
+ul.numbers li:nth-child(28)::before {
+  content: '28';
+}
+ul.numbers li:nth-child(29) {
+  color: #1de300;
+}
+ul.numbers li:nth-child(29)::before {
+  content: '29';
+}
+ul.numbers li:nth-child(30) {
+  color: #1ee200;
+}
+ul.numbers li:nth-child(30)::before {
+  content: '30';
+}
+ul.numbers li:nth-child(31) {
+  color: #1fe100;
+}
+ul.numbers li:nth-child(31)::before {
+  content: '31';
+}
+ul.numbers li:nth-child(32) {
+  color: #20e000;
+}
+ul.numbers li:nth-child(32)::before {
+  content: '32';
+}
+ul.numbers li:nth-child(33) {
+  color: #21df00;
+}
+ul.numbers li:nth-child(33)::before {
+  content: '33';
+}
+ul.numbers li:nth-child(34) {
+  color: #22de00;
+}
+ul.numbers li:nth-child(34)::before {
+  content: '34';
+}
+ul.numbers li:nth-child(35) {
+  color: #23dd00;
+}
+ul.numbers li:nth-child(35)::before {
+  content: '35';
+}
+ul.numbers li:nth-child(36) {
+  color: #24dc00;
+}
+ul.numbers li:nth-child(36)::before {
+  content: '36';
+}
+ul.numbers li:nth-child(37) {
+  color: #25db00;
+}
+ul.numbers li:nth-child(37)::before {
+  content: '37';
+}
+ul.numbers li:nth-child(38) {
+  color: #26da00;
+}
+ul.numbers li:nth-child(38)::before {
+  content: '38';
+}
+ul.numbers li:nth-child(39) {
+  color: #27d900;
+}
+ul.numbers li:nth-child(39)::before {
+  content: '39';
+}
+ul.numbers li:nth-child(40) {
+  color: #28d800;
+}
+ul.numbers li:nth-child(40)::before {
+  content: '40';
+}
+ul.numbers li:nth-child(41) {
+  color: #29d700;
+}
+ul.numbers li:nth-child(41)::before {
+  content: '41';
+}
+ul.numbers li:nth-child(42) {
+  color: #2ad600;
+}
+ul.numbers li:nth-child(42)::before {
+  content: '42';
+}
+ul.numbers li:nth-child(43) {
+  color: #2bd500;
+}
+ul.numbers li:nth-child(43)::before {
+  content: '43';
+}
+ul.numbers li:nth-child(44) {
+  color: #2cd400;
+}
+ul.numbers li:nth-child(44)::before {
+  content: '44';
+}
+ul.numbers li:nth-child(45) {
+  color: #2dd300;
+}
+ul.numbers li:nth-child(45)::before {
+  content: '45';
+}
+ul.numbers li:nth-child(46) {
+  color: #2ed200;
+}
+ul.numbers li:nth-child(46)::before {
+  content: '46';
+}
+ul.numbers li:nth-child(47) {
+  color: #2fd100;
+}
+ul.numbers li:nth-child(47)::before {
+  content: '47';
+}
+ul.numbers li:nth-child(48) {
+  color: #30d000;
+}
+ul.numbers li:nth-child(48)::before {
+  content: '48';
+}
+ul.numbers li:nth-child(49) {
+  color: #31cf00;
+}
+ul.numbers li:nth-child(49)::before {
+  content: '49';
+}
+ul.numbers li:nth-child(50) {
+  color: #32ce00;
+}
+ul.numbers li:nth-child(50)::before {
+  content: '50';
+}
+ul.numbers li:nth-child(51) {
+  color: #33cd00;
+}
+ul.numbers li:nth-child(51)::before {
+  content: '51';
+}
+ul.numbers li:nth-child(52) {
+  color: #34cc00;
+}
+ul.numbers li:nth-child(52)::before {
+  content: '52';
+}
+ul.numbers li:nth-child(53) {
+  color: #35cb00;
+}
+ul.numbers li:nth-child(53)::before {
+  content: '53';
+}
+ul.numbers li:nth-child(54) {
+  color: #36ca00;
+}
+ul.numbers li:nth-child(54)::before {
+  content: '54';
+}
+ul.numbers li:nth-child(55) {
+  color: #37c900;
+}
+ul.numbers li:nth-child(55)::before {
+  content: '55';
+}
+ul.numbers li:nth-child(56) {
+  color: #38c800;
+}
+ul.numbers li:nth-child(56)::before {
+  content: '56';
+}
+ul.numbers li:nth-child(57) {
+  color: #39c700;
+}
+ul.numbers li:nth-child(57)::before {
+  content: '57';
+}
+ul.numbers li:nth-child(58) {
+  color: #3ac600;
+}
+ul.numbers li:nth-child(58)::before {
+  content: '58';
+}
+ul.numbers li:nth-child(59) {
+  color: #3bc500;
+}
+ul.numbers li:nth-child(59)::before {
+  content: '59';
+}
+ul.numbers li:nth-child(60) {
+  color: #3cc400;
+}
+ul.numbers li:nth-child(60)::before {
+  content: '60';
+}
+ul.numbers li:nth-child(61) {
+  color: #3dc300;
+}
+ul.numbers li:nth-child(61)::before {
+  content: '61';
+}
+ul.numbers li:nth-child(62) {
+  color: #3ec200;
+}
+ul.numbers li:nth-child(62)::before {
+  content: '62';
+}
+ul.numbers li:nth-child(63) {
+  color: #3fc100;
+}
+ul.numbers li:nth-child(63)::before {
+  content: '63';
+}
+ul.numbers li:nth-child(64) {
+  color: #40c000;
+}
+ul.numbers li:nth-child(64)::before {
+  content: '64';
+}
+ul.numbers li:nth-child(65) {
+  color: #41bf00;
+}
+ul.numbers li:nth-child(65)::before {
+  content: '65';
+}
+ul.numbers li:nth-child(66) {
+  color: #42be00;
+}
+ul.numbers li:nth-child(66)::before {
+  content: '66';
+}
+ul.numbers li:nth-child(67) {
+  color: #43bd00;
+}
+ul.numbers li:nth-child(67)::before {
+  content: '67';
+}
+ul.numbers li:nth-child(68) {
+  color: #44bc00;
+}
+ul.numbers li:nth-child(68)::before {
+  content: '68';
+}
+ul.numbers li:nth-child(69) {
+  color: #45bb00;
+}
+ul.numbers li:nth-child(69)::before {
+  content: '69';
+}
+ul.numbers li:nth-child(70) {
+  color: #46ba00;
+}
+ul.numbers li:nth-child(70)::before {
+  content: '70';
+}
+ul.numbers li:nth-child(71) {
+  color: #47b900;
+}
+ul.numbers li:nth-child(71)::before {
+  content: '71';
+}
+ul.numbers li:nth-child(72) {
+  color: #48b800;
+}
+ul.numbers li:nth-child(72)::before {
+  content: '72';
+}
+ul.numbers li:nth-child(73) {
+  color: #49b700;
+}
+ul.numbers li:nth-child(73)::before {
+  content: '73';
+}
+ul.numbers li:nth-child(74) {
+  color: #4ab600;
+}
+ul.numbers li:nth-child(74)::before {
+  content: '74';
+}
+ul.numbers li:nth-child(75) {
+  color: #4bb500;
+}
+ul.numbers li:nth-child(75)::before {
+  content: '75';
+}
+ul.numbers li:nth-child(76) {
+  color: #4cb400;
+}
+ul.numbers li:nth-child(76)::before {
+  content: '76';
+}
+ul.numbers li:nth-child(77) {
+  color: #4db300;
+}
+ul.numbers li:nth-child(77)::before {
+  content: '77';
+}
+ul.numbers li:nth-child(78) {
+  color: #4eb200;
+}
+ul.numbers li:nth-child(78)::before {
+  content: '78';
+}
+ul.numbers li:nth-child(79) {
+  color: #4fb100;
+}
+ul.numbers li:nth-child(79)::before {
+  content: '79';
+}
+ul.numbers li:nth-child(80) {
+  color: #50b000;
+}
+ul.numbers li:nth-child(80)::before {
+  content: '80';
+}
+ul.numbers li:nth-child(81) {
+  color: #51af00;
+}
+ul.numbers li:nth-child(81)::before {
+  content: '81';
+}
+ul.numbers li:nth-child(82) {
+  color: #52ae00;
+}
+ul.numbers li:nth-child(82)::before {
+  content: '82';
+}
+ul.numbers li:nth-child(83) {
+  color: #53ad00;
+}
+ul.numbers li:nth-child(83)::before {
+  content: '83';
+}
+ul.numbers li:nth-child(84) {
+  color: #54ac00;
+}
+ul.numbers li:nth-child(84)::before {
+  content: '84';
+}
+ul.numbers li:nth-child(85) {
+  color: #55ab00;
+}
+ul.numbers li:nth-child(85)::before {
+  content: '85';
+}
+ul.numbers li:nth-child(86) {
+  color: #56aa00;
+}
+ul.numbers li:nth-child(86)::before {
+  content: '86';
+}
+ul.numbers li:nth-child(87) {
+  color: #57a900;
+}
+ul.numbers li:nth-child(87)::before {
+  content: '87';
+}
+ul.numbers li:nth-child(88) {
+  color: #58a800;
+}
+ul.numbers li:nth-child(88)::before {
+  content: '88';
+}
+ul.numbers li:nth-child(89) {
+  color: #59a700;
+}
+ul.numbers li:nth-child(89)::before {
+  content: '89';
+}
+ul.numbers li:nth-child(90) {
+  color: #5aa600;
+}
+ul.numbers li:nth-child(90)::before {
+  content: '90';
+}
+ul.numbers li:nth-child(91) {
+  color: #5ba500;
+}
+ul.numbers li:nth-child(91)::before {
+  content: '91';
+}
+ul.numbers li:nth-child(92) {
+  color: #5ca400;
+}
+ul.numbers li:nth-child(92)::before {
+  content: '92';
+}
+ul.numbers li:nth-child(93) {
+  color: #5da300;
+}
+ul.numbers li:nth-child(93)::before {
+  content: '93';
+}
+ul.numbers li:nth-child(94) {
+  color: #5ea200;
+}
+ul.numbers li:nth-child(94)::before {
+  content: '94';
+}
+ul.numbers li:nth-child(95) {
+  color: #5fa100;
+}
+ul.numbers li:nth-child(95)::before {
+  content: '95';
+}
+ul.numbers li:nth-child(96) {
+  color: #60a000;
+}
+ul.numbers li:nth-child(96)::before {
+  content: '96';
+}
+ul.numbers li:nth-child(97) {
+  color: #619f00;
+}
+ul.numbers li:nth-child(97)::before {
+  content: '97';
+}
+ul.numbers li:nth-child(98) {
+  color: #629e00;
+}
+ul.numbers li:nth-child(98)::before {
+  content: '98';
+}
+ul.numbers li:nth-child(99) {
+  color: #639d00;
+}
+ul.numbers li:nth-child(99)::before {
+  content: '99';
+}
+ul.numbers li:nth-child(100) {
+  color: #649c00;
+}
+ul.numbers li:nth-child(100)::before {
+  content: '100';
+}
+ul.numbers li:nth-child(101) {
+  color: #659b00;
+}
+ul.numbers li:nth-child(101)::before {
+  content: '101';
+}
+ul.numbers li:nth-child(102) {
+  color: #669a00;
+}
+ul.numbers li:nth-child(102)::before {
+  content: '102';
+}
+ul.numbers li:nth-child(103) {
+  color: #679900;
+}
+ul.numbers li:nth-child(103)::before {
+  content: '103';
+}
+ul.numbers li:nth-child(104) {
+  color: #689800;
+}
+ul.numbers li:nth-child(104)::before {
+  content: '104';
+}
+ul.numbers li:nth-child(105) {
+  color: #699700;
+}
+ul.numbers li:nth-child(105)::before {
+  content: '105';
+}
+ul.numbers li:nth-child(106) {
+  color: #6a9600;
+}
+ul.numbers li:nth-child(106)::before {
+  content: '106';
+}
+ul.numbers li:nth-child(107) {
+  color: #6b9500;
+}
+ul.numbers li:nth-child(107)::before {
+  content: '107';
+}
+ul.numbers li:nth-child(108) {
+  color: #6c9400;
+}
+ul.numbers li:nth-child(108)::before {
+  content: '108';
+}
+ul.numbers li:nth-child(109) {
+  color: #6d9300;
+}
+ul.numbers li:nth-child(109)::before {
+  content: '109';
+}
+ul.numbers li:nth-child(110) {
+  color: #6e9200;
+}
+ul.numbers li:nth-child(110)::before {
+  content: '110';
+}
+ul.numbers li:nth-child(111) {
+  color: #6f9100;
+}
+ul.numbers li:nth-child(111)::before {
+  content: '111';
+}
+ul.numbers li:nth-child(112) {
+  color: #709000;
+}
+ul.numbers li:nth-child(112)::before {
+  content: '112';
+}
+ul.numbers li:nth-child(113) {
+  color: #718f00;
+}
+ul.numbers li:nth-child(113)::before {
+  content: '113';
+}
+ul.numbers li:nth-child(114) {
+  color: #728e00;
+}
+ul.numbers li:nth-child(114)::before {
+  content: '114';
+}
+ul.numbers li:nth-child(115) {
+  color: #738d00;
+}
+ul.numbers li:nth-child(115)::before {
+  content: '115';
+}
+ul.numbers li:nth-child(116) {
+  color: #748c00;
+}
+ul.numbers li:nth-child(116)::before {
+  content: '116';
+}
+ul.numbers li:nth-child(117) {
+  color: #758b00;
+}
+ul.numbers li:nth-child(117)::before {
+  content: '117';
+}
+ul.numbers li:nth-child(118) {
+  color: #768a00;
+}
+ul.numbers li:nth-child(118)::before {
+  content: '118';
+}
+ul.numbers li:nth-child(119) {
+  color: #778900;
+}
+ul.numbers li:nth-child(119)::before {
+  content: '119';
+}
+ul.numbers li:nth-child(120) {
+  color: #788800;
+}
+ul.numbers li:nth-child(120)::before {
+  content: '120';
+}
+ul.numbers li:nth-child(121) {
+  color: #798700;
+}
+ul.numbers li:nth-child(121)::before {
+  content: '121';
+}
+ul.numbers li:nth-child(122) {
+  color: #7a8600;
+}
+ul.numbers li:nth-child(122)::before {
+  content: '122';
+}
+ul.numbers li:nth-child(123) {
+  color: #7b8500;
+}
+ul.numbers li:nth-child(123)::before {
+  content: '123';
+}
+ul.numbers li:nth-child(124) {
+  color: #7c8400;
+}
+ul.numbers li:nth-child(124)::before {
+  content: '124';
+}
+ul.numbers li:nth-child(125) {
+  color: #7d8300;
+}
+ul.numbers li:nth-child(125)::before {
+  content: '125';
+}
+ul.numbers li:nth-child(126) {
+  color: #7e8200;
+}
+ul.numbers li:nth-child(126)::before {
+  content: '126';
+}
+ul.numbers li:nth-child(127) {
+  color: #7f8100;
+}
+ul.numbers li:nth-child(127)::before {
+  content: '127';
+}
+ul.numbers li:nth-child(128) {
+  color: #808000;
+}
+ul.numbers li:nth-child(128)::before {
+  content: '128';
+}
+ul.numbers li:nth-child(129) {
+  color: #817f00;
+}
+ul.numbers li:nth-child(129)::before {
+  content: '129';
+}
+ul.numbers li:nth-child(130) {
+  color: #827e00;
+}
+ul.numbers li:nth-child(130)::before {
+  content: '130';
+}
+ul.numbers li:nth-child(131) {
+  color: #837d00;
+}
+ul.numbers li:nth-child(131)::before {
+  content: '131';
+}
+ul.numbers li:nth-child(132) {
+  color: #847c00;
+}
+ul.numbers li:nth-child(132)::before {
+  content: '132';
+}
+ul.numbers li:nth-child(133) {
+  color: #857b00;
+}
+ul.numbers li:nth-child(133)::before {
+  content: '133';
+}
+ul.numbers li:nth-child(134) {
+  color: #867a00;
+}
+ul.numbers li:nth-child(134)::before {
+  content: '134';
+}
+ul.numbers li:nth-child(135) {
+  color: #877900;
+}
+ul.numbers li:nth-child(135)::before {
+  content: '135';
+}
+ul.numbers li:nth-child(136) {
+  color: #887800;
+}
+ul.numbers li:nth-child(136)::before {
+  content: '136';
+}
+ul.numbers li:nth-child(137) {
+  color: #897700;
+}
+ul.numbers li:nth-child(137)::before {
+  content: '137';
+}
+ul.numbers li:nth-child(138) {
+  color: #8a7600;
+}
+ul.numbers li:nth-child(138)::before {
+  content: '138';
+}
+ul.numbers li:nth-child(139) {
+  color: #8b7500;
+}
+ul.numbers li:nth-child(139)::before {
+  content: '139';
+}
+ul.numbers li:nth-child(140) {
+  color: #8c7400;
+}
+ul.numbers li:nth-child(140)::before {
+  content: '140';
+}
+ul.numbers li:nth-child(141) {
+  color: #8d7300;
+}
+ul.numbers li:nth-child(141)::before {
+  content: '141';
+}
+ul.numbers li:nth-child(142) {
+  color: #8e7200;
+}
+ul.numbers li:nth-child(142)::before {
+  content: '142';
+}
+ul.numbers li:nth-child(143) {
+  color: #8f7100;
+}
+ul.numbers li:nth-child(143)::before {
+  content: '143';
+}
+ul.numbers li:nth-child(144) {
+  color: #907000;
+}
+ul.numbers li:nth-child(144)::before {
+  content: '144';
+}
+ul.numbers li:nth-child(145) {
+  color: #916f00;
+}
+ul.numbers li:nth-child(145)::before {
+  content: '145';
+}
+ul.numbers li:nth-child(146) {
+  color: #926e00;
+}
+ul.numbers li:nth-child(146)::before {
+  content: '146';
+}
+ul.numbers li:nth-child(147) {
+  color: #936d00;
+}
+ul.numbers li:nth-child(147)::before {
+  content: '147';
+}
+ul.numbers li:nth-child(148) {
+  color: #946c00;
+}
+ul.numbers li:nth-child(148)::before {
+  content: '148';
+}
+ul.numbers li:nth-child(149) {
+  color: #956b00;
+}
+ul.numbers li:nth-child(149)::before {
+  content: '149';
+}
+ul.numbers li:nth-child(150) {
+  color: #966a00;
+}
+ul.numbers li:nth-child(150)::before {
+  content: '150';
+}
+ul.numbers li:nth-child(151) {
+  color: #976900;
+}
+ul.numbers li:nth-child(151)::before {
+  content: '151';
+}
+ul.numbers li:nth-child(152) {
+  color: #986800;
+}
+ul.numbers li:nth-child(152)::before {
+  content: '152';
+}
+ul.numbers li:nth-child(153) {
+  color: #996700;
+}
+ul.numbers li:nth-child(153)::before {
+  content: '153';
+}
+ul.numbers li:nth-child(154) {
+  color: #9a6600;
+}
+ul.numbers li:nth-child(154)::before {
+  content: '154';
+}
+ul.numbers li:nth-child(155) {
+  color: #9b6500;
+}
+ul.numbers li:nth-child(155)::before {
+  content: '155';
+}
+ul.numbers li:nth-child(156) {
+  color: #9c6400;
+}
+ul.numbers li:nth-child(156)::before {
+  content: '156';
+}
+ul.numbers li:nth-child(157) {
+  color: #9d6300;
+}
+ul.numbers li:nth-child(157)::before {
+  content: '157';
+}
+ul.numbers li:nth-child(158) {
+  color: #9e6200;
+}
+ul.numbers li:nth-child(158)::before {
+  content: '158';
+}
+ul.numbers li:nth-child(159) {
+  color: #9f6100;
+}
+ul.numbers li:nth-child(159)::before {
+  content: '159';
+}
+ul.numbers li:nth-child(160) {
+  color: #a06000;
+}
+ul.numbers li:nth-child(160)::before {
+  content: '160';
+}
+ul.numbers li:nth-child(161) {
+  color: #a15f00;
+}
+ul.numbers li:nth-child(161)::before {
+  content: '161';
+}
+ul.numbers li:nth-child(162) {
+  color: #a25e00;
+}
+ul.numbers li:nth-child(162)::before {
+  content: '162';
+}
+ul.numbers li:nth-child(163) {
+  color: #a35d00;
+}
+ul.numbers li:nth-child(163)::before {
+  content: '163';
+}
+ul.numbers li:nth-child(164) {
+  color: #a45c00;
+}
+ul.numbers li:nth-child(164)::before {
+  content: '164';
+}
+ul.numbers li:nth-child(165) {
+  color: #a55b00;
+}
+ul.numbers li:nth-child(165)::before {
+  content: '165';
+}
+ul.numbers li:nth-child(166) {
+  color: #a65a00;
+}
+ul.numbers li:nth-child(166)::before {
+  content: '166';
+}
+ul.numbers li:nth-child(167) {
+  color: #a75900;
+}
+ul.numbers li:nth-child(167)::before {
+  content: '167';
+}
+ul.numbers li:nth-child(168) {
+  color: #a85800;
+}
+ul.numbers li:nth-child(168)::before {
+  content: '168';
+}
+ul.numbers li:nth-child(169) {
+  color: #a95700;
+}
+ul.numbers li:nth-child(169)::before {
+  content: '169';
+}
+ul.numbers li:nth-child(170) {
+  color: #aa5600;
+}
+ul.numbers li:nth-child(170)::before {
+  content: '170';
+}
+ul.numbers li:nth-child(171) {
+  color: #ab5500;
+}
+ul.numbers li:nth-child(171)::before {
+  content: '171';
+}
+ul.numbers li:nth-child(172) {
+  color: #ac5400;
+}
+ul.numbers li:nth-child(172)::before {
+  content: '172';
+}
+ul.numbers li:nth-child(173) {
+  color: #ad5300;
+}
+ul.numbers li:nth-child(173)::before {
+  content: '173';
+}
+ul.numbers li:nth-child(174) {
+  color: #ae5200;
+}
+ul.numbers li:nth-child(174)::before {
+  content: '174';
+}
+ul.numbers li:nth-child(175) {
+  color: #af5100;
+}
+ul.numbers li:nth-child(175)::before {
+  content: '175';
+}
+ul.numbers li:nth-child(176) {
+  color: #b05000;
+}
+ul.numbers li:nth-child(176)::before {
+  content: '176';
+}
+ul.numbers li:nth-child(177) {
+  color: #b14f00;
+}
+ul.numbers li:nth-child(177)::before {
+  content: '177';
+}
+ul.numbers li:nth-child(178) {
+  color: #b24e00;
+}
+ul.numbers li:nth-child(178)::before {
+  content: '178';
+}
+ul.numbers li:nth-child(179) {
+  color: #b34d00;
+}
+ul.numbers li:nth-child(179)::before {
+  content: '179';
+}
+ul.numbers li:nth-child(180) {
+  color: #b44c00;
+}
+ul.numbers li:nth-child(180)::before {
+  content: '180';
+}
+ul.numbers li:nth-child(181) {
+  color: #b54b00;
+}
+ul.numbers li:nth-child(181)::before {
+  content: '181';
+}
+ul.numbers li:nth-child(182) {
+  color: #b64a00;
+}
+ul.numbers li:nth-child(182)::before {
+  content: '182';
+}
+ul.numbers li:nth-child(183) {
+  color: #b74900;
+}
+ul.numbers li:nth-child(183)::before {
+  content: '183';
+}
+ul.numbers li:nth-child(184) {
+  color: #b84800;
+}
+ul.numbers li:nth-child(184)::before {
+  content: '184';
+}
+ul.numbers li:nth-child(185) {
+  color: #b94700;
+}
+ul.numbers li:nth-child(185)::before {
+  content: '185';
+}
+ul.numbers li:nth-child(186) {
+  color: #ba4600;
+}
+ul.numbers li:nth-child(186)::before {
+  content: '186';
+}
+ul.numbers li:nth-child(187) {
+  color: #bb4500;
+}
+ul.numbers li:nth-child(187)::before {
+  content: '187';
+}
+ul.numbers li:nth-child(188) {
+  color: #bc4400;
+}
+ul.numbers li:nth-child(188)::before {
+  content: '188';
+}
+ul.numbers li:nth-child(189) {
+  color: #bd4300;
+}
+ul.numbers li:nth-child(189)::before {
+  content: '189';
+}
+ul.numbers li:nth-child(190) {
+  color: #be4200;
+}
+ul.numbers li:nth-child(190)::before {
+  content: '190';
+}
+ul.numbers li:nth-child(191) {
+  color: #bf4100;
+}
+ul.numbers li:nth-child(191)::before {
+  content: '191';
+}
+ul.numbers li:nth-child(192) {
+  color: #c04000;
+}
+ul.numbers li:nth-child(192)::before {
+  content: '192';
+}
+ul.numbers li:nth-child(193) {
+  color: #c13f00;
+}
+ul.numbers li:nth-child(193)::before {
+  content: '193';
+}
+ul.numbers li:nth-child(194) {
+  color: #c23e00;
+}
+ul.numbers li:nth-child(194)::before {
+  content: '194';
+}
+ul.numbers li:nth-child(195) {
+  color: #c33d00;
+}
+ul.numbers li:nth-child(195)::before {
+  content: '195';
+}
+ul.numbers li:nth-child(196) {
+  color: #c43c00;
+}
+ul.numbers li:nth-child(196)::before {
+  content: '196';
+}
+ul.numbers li:nth-child(197) {
+  color: #c53b00;
+}
+ul.numbers li:nth-child(197)::before {
+  content: '197';
+}
+ul.numbers li:nth-child(198) {
+  color: #c63a00;
+}
+ul.numbers li:nth-child(198)::before {
+  content: '198';
+}
+ul.numbers li:nth-child(199) {
+  color: #c73900;
+}
+ul.numbers li:nth-child(199)::before {
+  content: '199';
+}
+ul.numbers li:nth-child(200) {
+  color: #c83800;
+}
+ul.numbers li:nth-child(200)::before {
+  content: '200';
+}
+ul.numbers li:nth-child(201) {
+  color: #c93700;
+}
+ul.numbers li:nth-child(201)::before {
+  content: '201';
+}
+ul.numbers li:nth-child(202) {
+  color: #ca3600;
+}
+ul.numbers li:nth-child(202)::before {
+  content: '202';
+}
+ul.numbers li:nth-child(203) {
+  color: #cb3500;
+}
+ul.numbers li:nth-child(203)::before {
+  content: '203';
+}
+ul.numbers li:nth-child(204) {
+  color: #cc3400;
+}
+ul.numbers li:nth-child(204)::before {
+  content: '204';
+}
+ul.numbers li:nth-child(205) {
+  color: #cd3300;
+}
+ul.numbers li:nth-child(205)::before {
+  content: '205';
+}
+ul.numbers li:nth-child(206) {
+  color: #ce3200;
+}
+ul.numbers li:nth-child(206)::before {
+  content: '206';
+}
+ul.numbers li:nth-child(207) {
+  color: #cf3100;
+}
+ul.numbers li:nth-child(207)::before {
+  content: '207';
+}
+ul.numbers li:nth-child(208) {
+  color: #d03000;
+}
+ul.numbers li:nth-child(208)::before {
+  content: '208';
+}
+ul.numbers li:nth-child(209) {
+  color: #d12f00;
+}
+ul.numbers li:nth-child(209)::before {
+  content: '209';
+}
+ul.numbers li:nth-child(210) {
+  color: #d22e00;
+}
+ul.numbers li:nth-child(210)::before {
+  content: '210';
+}
+ul.numbers li:nth-child(211) {
+  color: #d32d00;
+}
+ul.numbers li:nth-child(211)::before {
+  content: '211';
+}
+ul.numbers li:nth-child(212) {
+  color: #d42c00;
+}
+ul.numbers li:nth-child(212)::before {
+  content: '212';
+}
+ul.numbers li:nth-child(213) {
+  color: #d52b00;
+}
+ul.numbers li:nth-child(213)::before {
+  content: '213';
+}
+ul.numbers li:nth-child(214) {
+  color: #d62a00;
+}
+ul.numbers li:nth-child(214)::before {
+  content: '214';
+}
+ul.numbers li:nth-child(215) {
+  color: #d72900;
+}
+ul.numbers li:nth-child(215)::before {
+  content: '215';
+}
+ul.numbers li:nth-child(216) {
+  color: #d82800;
+}
+ul.numbers li:nth-child(216)::before {
+  content: '216';
+}
+ul.numbers li:nth-child(217) {
+  color: #d92700;
+}
+ul.numbers li:nth-child(217)::before {
+  content: '217';
+}
+ul.numbers li:nth-child(218) {
+  color: #da2600;
+}
+ul.numbers li:nth-child(218)::before {
+  content: '218';
+}
+ul.numbers li:nth-child(219) {
+  color: #db2500;
+}
+ul.numbers li:nth-child(219)::before {
+  content: '219';
+}
+ul.numbers li:nth-child(220) {
+  color: #dc2400;
+}
+ul.numbers li:nth-child(220)::before {
+  content: '220';
+}
+ul.numbers li:nth-child(221) {
+  color: #dd2300;
+}
+ul.numbers li:nth-child(221)::before {
+  content: '221';
+}
+ul.numbers li:nth-child(222) {
+  color: #de2200;
+}
+ul.numbers li:nth-child(222)::before {
+  content: '222';
+}
+ul.numbers li:nth-child(223) {
+  color: #df2100;
+}
+ul.numbers li:nth-child(223)::before {
+  content: '223';
+}
+ul.numbers li:nth-child(224) {
+  color: #e02000;
+}
+ul.numbers li:nth-child(224)::before {
+  content: '224';
+}
+ul.numbers li:nth-child(225) {
+  color: #e11f00;
+}
+ul.numbers li:nth-child(225)::before {
+  content: '225';
+}
+ul.numbers li:nth-child(226) {
+  color: #e21e00;
+}
+ul.numbers li:nth-child(226)::before {
+  content: '226';
+}
+ul.numbers li:nth-child(227) {
+  color: #e31d00;
+}
+ul.numbers li:nth-child(227)::before {
+  content: '227';
+}
+ul.numbers li:nth-child(228) {
+  color: #e41c00;
+}
+ul.numbers li:nth-child(228)::before {
+  content: '228';
+}
+ul.numbers li:nth-child(229) {
+  color: #e51b00;
+}
+ul.numbers li:nth-child(229)::before {
+  content: '229';
+}
+ul.numbers li:nth-child(230) {
+  color: #e61a00;
+}
+ul.numbers li:nth-child(230)::before {
+  content: '230';
+}
+ul.numbers li:nth-child(231) {
+  color: #e71900;
+}
+ul.numbers li:nth-child(231)::before {
+  content: '231';
+}
+ul.numbers li:nth-child(232) {
+  color: #e81800;
+}
+ul.numbers li:nth-child(232)::before {
+  content: '232';
+}
+ul.numbers li:nth-child(233) {
+  color: #e91700;
+}
+ul.numbers li:nth-child(233)::before {
+  content: '233';
+}
+ul.numbers li:nth-child(234) {
+  color: #ea1600;
+}
+ul.numbers li:nth-child(234)::before {
+  content: '234';
+}
+ul.numbers li:nth-child(235) {
+  color: #eb1500;
+}
+ul.numbers li:nth-child(235)::before {
+  content: '235';
+}
+ul.numbers li:nth-child(236) {
+  color: #ec1400;
+}
+ul.numbers li:nth-child(236)::before {
+  content: '236';
+}
+ul.numbers li:nth-child(237) {
+  color: #ed1300;
+}
+ul.numbers li:nth-child(237)::before {
+  content: '237';
+}
+ul.numbers li:nth-child(238) {
+  color: #ee1200;
+}
+ul.numbers li:nth-child(238)::before {
+  content: '238';
+}
+ul.numbers li:nth-child(239) {
+  color: #ef1100;
+}
+ul.numbers li:nth-child(239)::before {
+  content: '239';
+}
+ul.numbers li:nth-child(240) {
+  color: #f01000;
+}
+ul.numbers li:nth-child(240)::before {
+  content: '240';
+}
+ul.numbers li:nth-child(241) {
+  color: #f10f00;
+}
+ul.numbers li:nth-child(241)::before {
+  content: '241';
+}
+ul.numbers li:nth-child(242) {
+  color: #f20e00;
+}
+ul.numbers li:nth-child(242)::before {
+  content: '242';
+}
+ul.numbers li:nth-child(243) {
+  color: #f30d00;
+}
+ul.numbers li:nth-child(243)::before {
+  content: '243';
+}
+ul.numbers li:nth-child(244) {
+  color: #f40c00;
+}
+ul.numbers li:nth-child(244)::before {
+  content: '244';
+}
+ul.numbers li:nth-child(245) {
+  color: #f50b00;
+}
+ul.numbers li:nth-child(245)::before {
+  content: '245';
+}
+ul.numbers li:nth-child(246) {
+  color: #f60a00;
+}
+ul.numbers li:nth-child(246)::before {
+  content: '246';
+}
+ul.numbers li:nth-child(247) {
+  color: #f70900;
+}
+ul.numbers li:nth-child(247)::before {
+  content: '247';
+}
+ul.numbers li:nth-child(248) {
+  color: #f80800;
+}
+ul.numbers li:nth-child(248)::before {
+  content: '248';
+}
+ul.numbers li:nth-child(249) {
+  color: #f90700;
+}
+ul.numbers li:nth-child(249)::before {
+  content: '249';
+}
+ul.numbers li:nth-child(250) {
+  color: #fa0600;
+}
+ul.numbers li:nth-child(250)::before {
+  content: '250';
+}
+ul.numbers li:nth-child(251) {
+  color: #fb0500;
+}
+ul.numbers li:nth-child(251)::before {
+  content: '251';
+}
+ul.numbers li:nth-child(252) {
+  color: #fc0400;
+}
+ul.numbers li:nth-child(252)::before {
+  content: '252';
+}
+ul.numbers li:nth-child(253) {
+  color: #fd0300;
+}
+ul.numbers li:nth-child(253)::before {
+  content: '253';
+}
+ul.numbers li:nth-child(254) {
+  color: #fe0200;
+}
+ul.numbers li:nth-child(254)::before {
+  content: '254';
+}
+ul.numbers li:nth-child(255) {
+  color: #ff0100;
+}
+ul.numbers li:nth-child(255)::before {
+  content: '255';
+}
+.gray-block {
+  background: gray;
+  padding: 10px;
+}
+.logo {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+  color: black;
+  margin: 20px 0;
+}
+.menu {
+  background: gray;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 2px 0;
+  height: 25px;
+}
+.bottom-gray-block {
+  background: gray;
+  padding: 10px;
+  text-align: center;
+  margin: 10px 0;
+  height: 50px;
+}
+.columns {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+  height: 130px;
+}
+.columns .column {
+  background: gray;
+  padding: 10px;
+  display: flex;
+  flex-grow: 1;
+  max-width: 33.33%;
+}
+.footer {
+  background: gray;
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 10px 0;
+  height: 25px;
+}

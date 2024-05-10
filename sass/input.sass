@@ -1,0 +1,58 @@
+//sass syntax
+
+//colored list
+//page1
+ul.numbers
+    li
+        @for $i from 1 through 256
+            &:nth-child(#{$i})
+                &::before
+                    content: "#{$i}"
+                color: rgb($i, 256-$i, 0)
+
+//верстка странички
+//page2
+@mixin gray-block
+    background: gray
+    padding: 10px
+
+.logo
+    text-align: center
+    font-size: xx-large
+    font-weight: bold
+    color: black
+    margin: 20px 0
+  
+.menu
+    @include gray-block
+    display: flex
+    justify-content: center
+    gap: 10px
+    margin: 2px 0
+    height: 25px
+
+
+.bottom-gray-block
+    @include gray-block
+    text-align: center
+    margin: 10px 0
+    height: 50px
+
+
+.columns
+    display: flex
+    gap: 10px
+    margin: 10px 0
+    height: 130px
+    .column
+        @include gray-block
+        display: flex
+        flex-grow: 1
+        max-width: 33.33%
+
+.footer
+    @include gray-block
+    text-align: center
+    vertical-align: middle
+    margin: 10px 0
+    height: 25px

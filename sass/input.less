@@ -1,0 +1,71 @@
+//less syntax
+
+//colored list
+//page1
+.gen-li(@i: 1) when (@i =< 255) {
+    li:nth-child(@{i}) {
+        &::before{
+            content: '@{i}';
+        }
+        color: rgb(@i, 256-@i, 0);
+    }
+
+    .gen-li(@i + 1)
+}
+
+
+ul.numbers {
+    .gen-li();
+}
+
+//верстка странички
+//page2
+.gray-block {
+    background: gray;
+    padding: 10px;
+}
+
+.logo {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    margin: 20px 0;
+}
+  
+.menu {
+    .gray-block();
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 2px 0;
+    height: 25px;
+}
+
+.bottom-gray-block {
+    .gray-block();
+    text-align: center;
+    margin: 10px 0;
+    height: 50px;
+}
+
+.columns {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+    height: 130px;
+    .column {
+        .gray-block();
+        display: flex;
+        flex-grow: 1;
+        max-width: 33.33%;
+    }
+}
+
+.footer {
+    .gray-block();
+    text-align: center;
+    vertical-align: middle;
+    margin: 10px 0;
+    height: 25px;
+}
